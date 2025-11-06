@@ -78,7 +78,7 @@ Ensure all **grounds are common** (ESP8266, L298N, battery).
 
 ## 🎥 Demo Preview
 Here’s a short preview of the RC car in action.  
-<video src="assets/demo.mp4" width="600" controls autoplay loop muted></video>
+<video src="assets/demo.MOV" width="600" controls autoplay loop muted></video>
 
 
 
