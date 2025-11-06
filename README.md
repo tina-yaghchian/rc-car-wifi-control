@@ -84,9 +84,6 @@ Here’s a short preview of the RC car in action!
 
 <div align="center">
 
-<!-- 🖼️ Fallback image -->
-<img src="assets/poster.png" alt="RC Car Wi-Fi Control Poster" width="600" style="border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.2);margin-bottom:10px;"><br>
-
 <!-- 🎞️ Embedded demo video -->
 <video src="assets/demo.mp4" width="600" controls autoplay loop muted></video>
 
