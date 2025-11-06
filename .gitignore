@@ -1,0 +1,18 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Arduino build artifacts
+build/
+*.elf
+*.bin
+*.hex
+
+# Temporary / backup
+*.tmp
+*.bak
+__MACOSX/
