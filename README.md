@@ -78,15 +78,17 @@ Ensure all **grounds are common** (ESP8266, L298N, battery).
 
 ## 🎥 Demo Preview
 Here’s a short preview of the RC car in action.  
-Replace `assets/demo.mp4` and `assets/screenshot.jpg` with your own files to personalize your repo!
+<video src="assets/demo.mp4" width="600" controls autoplay loop muted></video>
+
+
 
 <div align="center">
 
   <!-- 🖼️ Fallback static image -->
-  <img src="assets/screenshot.jpg" alt="RC Car Screenshot" width="600" style="border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.2);margin-bottom:10px;"><br>
+  <img src="assets/poster.png" alt="RC Car" width="600" style="border-radius:12px;box-shadow:0 2px 8px rgba(0,0,0,0.2);margin-bottom:10px;"><br>
 
   <!-- 🎞️ Embedded demo video -->
-  <video src="assets/demo.mp4" width="600" controls autoplay loop muted></video>
+  <video src="assets/demo.MOV" width="600" controls autoplay loop muted></video>
 
   *(If your browser doesn’t support embedded media, [click here to view the demo video](assets/demo.mp4))*  
 
