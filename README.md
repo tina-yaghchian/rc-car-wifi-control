@@ -84,10 +84,10 @@ Here’s a short preview of the RC car in action!
 
 <div align="center">
 
-<video src="https://raw.githubusercontent.com/tina-yaghchian/rc-car-wifi-control/main/assets/demo.mp4" width="600" controls autoplay loop muted></video>
+<!-- 🖼️ Clickable thumbnail -->
+[![RC Car Demo](assets/poster.png)](https://github.com/tina-yaghchian/rc-car-wifi-control/blob/main/assets/demo.mp4)
 
-
-<p><em>Click the image above to watch the demo video!</em></p>
+<p><em>Click the image above to watch the demo video on GitHub.</em></p>
 
 </div>
 
